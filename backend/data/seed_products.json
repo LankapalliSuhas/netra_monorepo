@@ -1,0 +1,57 @@
+[
+  {
+    "product_id": "prod_001",
+    "name": "Tata Salt Vacuum Evaporated",
+    "sku": "TSALT-1KG",
+    "category": "Staples",
+    "unit_weight_g": 1000.0,
+    "price_inr": 28.0,
+    "default_shelf_id": "esp32_shelf_01",
+    "stock_quantity": 10,
+    "reorder_threshold": 3
+  },
+  {
+    "product_id": "prod_002",
+    "name": "Maggi 2-Minute Masala Noodles",
+    "sku": "MAGGI-70G",
+    "category": "Instant Food",
+    "unit_weight_g": 70.0,
+    "price_inr": 14.0,
+    "default_shelf_id": null,
+    "stock_quantity": 48,
+    "reorder_threshold": 12
+  },
+  {
+    "product_id": "prod_003",
+    "name": "Fortune Sunlite Refined Sunflower Oil",
+    "sku": "FORT-OIL-1L",
+    "category": "Cooking Oils",
+    "unit_weight_g": 910.0,
+    "price_inr": 135.0,
+    "default_shelf_id": null,
+    "stock_quantity": 15,
+    "reorder_threshold": 4
+  },
+  {
+    "product_id": "prod_004",
+    "name": "Aashirvaad Superior MP Sharbati Atta",
+    "sku": "AASH-ATTA-5KG",
+    "category": "Flour & Grains",
+    "unit_weight_g": 5000.0,
+    "price_inr": 275.0,
+    "default_shelf_id": null,
+    "stock_quantity": 8,
+    "reorder_threshold": 2
+  },
+  {
+    "product_id": "prod_005",
+    "name": "Parle-G Gold Biscuits",
+    "sku": "PARLE-G-1KG",
+    "category": "Biscuits & Snacks",
+    "unit_weight_g": 1000.0,
+    "price_inr": 80.0,
+    "default_shelf_id": null,
+    "stock_quantity": 25,
+    "reorder_threshold": 6
+  }
+]
